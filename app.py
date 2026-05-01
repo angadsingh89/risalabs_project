@@ -326,8 +326,16 @@ st.markdown("""
 # ─── LOAD DATA ───────────────────────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    cases_path = Path("data/cases.json")
-    guidelines_path = Path("data/guidelines.json")
+    app_dir = Path(__file__).resolve().parent
+    candidates = [
+        app_dir / "data",
+        app_dir / "pa_copilot" / "data",
+        Path.cwd() / "data",
+        Path.cwd() / "pa_copilot" / "data",
+    ]
+    data_dir = next((p for p in candidates if p.exists()), app_dir / "data")
+    cases_path = data_dir / "cases.json"
+    guidelines_path = data_dir / "guidelines.json"
     with open(cases_path) as f:
         cases = json.load(f)
     with open(guidelines_path) as f:
