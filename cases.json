@@ -1,0 +1,162 @@
+[
+  {
+    "id": "CASE-001",
+    "specialty": "Orthopedics",
+    "procedure_requested": "Lumbar Epidural Steroid Injection",
+    "guideline_key": "lumbar_esi",
+    "chief_complaint": "Chronic lower back pain with radiculopathy",
+    "transcription": "PATIENT: 54-year-old male. CHIEF COMPLAINT: Persistent lower back pain radiating to left leg for 8 months. HISTORY: Patient reports progressive worsening of lumbar pain rated 7/10, with radiation down the left leg to the knee following L4-L5 dermatomal pattern. Conservative treatment history: completed 8 weeks of physical therapy (McKenzie protocol) with minimal improvement, NSAIDs (naproxen 500mg BID x 6 weeks) discontinued due to GI intolerance, muscle relaxants (cyclobenzaprine) provided partial relief. IMAGING: MRI lumbar spine dated 2 months ago shows L4-L5 disc herniation with moderate left-sided foraminal stenosis, mild facet arthropathy at L3-L4 and L4-L5. PHYSICAL EXAM: Positive straight leg raise test at 45 degrees left, decreased sensation in L4 distribution, strength 4/5 left dorsiflexion. No bowel or bladder dysfunction. ASSESSMENT: Lumbar radiculopathy secondary to L4-L5 disc herniation. PLAN: Requesting lumbar epidural steroid injection at L4-L5 under fluoroscopic guidance."
+  },
+  {
+    "id": "CASE-002",
+    "specialty": "Orthopedics",
+    "procedure_requested": "Lumbar Epidural Steroid Injection",
+    "guideline_key": "lumbar_esi",
+    "chief_complaint": "Acute back pain, no prior conservative treatment",
+    "transcription": "PATIENT: 38-year-old female. CHIEF COMPLAINT: Low back pain for 3 weeks after lifting injury. HISTORY: Patient reports sudden onset low back pain while lifting furniture rated 6/10. No radiation to extremities. No prior episodes. No imaging performed. No physical therapy or medications tried beyond OTC ibuprofen for 1 week. PHYSICAL EXAM: Lumbar paraspinal muscle tenderness, range of motion limited by pain, negative straight leg raise bilaterally. Neurological exam intact. ASSESSMENT: Acute mechanical low back pain. PLAN: Patient requesting epidural steroid injection for pain relief."
+  },
+  {
+    "id": "CASE-003",
+    "specialty": "Pulmonology",
+    "procedure_requested": "Polysomnography (Sleep Study)",
+    "guideline_key": "sleep_study",
+    "chief_complaint": "Excessive daytime sleepiness, witnessed apneas",
+    "transcription": "PATIENT: 47-year-old male, BMI 34. CHIEF COMPLAINT: Excessive daytime sleepiness, loud snoring, witnessed apneas for 2 years. HISTORY: Wife reports patient stops breathing 10-15 times per night. Patient falls asleep during meetings, Epworth Sleepiness Scale score 16/24. No prior sleep evaluation. Hypertension on lisinopril. Non-smoker. Neck circumference 42cm. PHYSICAL EXAM: Oropharyngeal crowding, Mallampati Class III, no tonsillar hypertrophy. ASSESSMENT: High clinical suspicion for obstructive sleep apnea based on STOP-BANG score 5/8. PLAN: Requesting attended polysomnography for formal diagnosis and CPAP titration."
+  },
+  {
+    "id": "CASE-004",
+    "specialty": "Pulmonology",
+    "procedure_requested": "Polysomnography (Sleep Study)",
+    "guideline_key": "sleep_study",
+    "chief_complaint": "Mild snoring, no functional impairment",
+    "transcription": "PATIENT: 29-year-old female. CHIEF COMPLAINT: Partner reports occasional snoring. HISTORY: No daytime sleepiness, Epworth score 6/24. No witnessed apneas. No hypertension or cardiovascular disease. BMI 22. Normal neck circumference. No morning headaches. STOP-BANG score 1/8. PHYSICAL EXAM: Normal oropharynx, Mallampati Class I. ASSESSMENT: Possible primary snoring. PLAN: Requesting polysomnography."
+  },
+  {
+    "id": "CASE-005",
+    "specialty": "Cardiology",
+    "procedure_requested": "Cardiac Stress Test",
+    "guideline_key": "cardiac_stress",
+    "chief_complaint": "Exertional chest pain with known CAD risk factors",
+    "transcription": "PATIENT: 62-year-old male. CHIEF COMPLAINT: Exertional chest tightness for 6 weeks. HISTORY: Chest tightness occurring with moderate exertion (climbing 2 flights of stairs), relieved by rest within 5 minutes. Risk factors: hypertension, hyperlipidemia, 30 pack-year smoking history (quit 5 years ago), family history of MI (father at age 58). No prior cardiac workup. ECG shows normal sinus rhythm, no ST changes at rest. PHYSICAL EXAM: BP 148/88, HR 76. No murmurs. Peripheral pulses intact. ASSESSMENT: Stable angina pattern, intermediate pre-test probability for CAD. PLAN: Requesting exercise stress test with imaging for ischemia evaluation."
+  },
+  {
+    "id": "CASE-006",
+    "specialty": "Cardiology",
+    "procedure_requested": "Cardiac Stress Test",
+    "guideline_key": "cardiac_stress",
+    "chief_complaint": "Annual checkup, asymptomatic, low risk",
+    "transcription": "PATIENT: 35-year-old female. CHIEF COMPLAINT: Routine annual physical, no symptoms. HISTORY: No chest pain, no dyspnea, no palpitations. No cardiac risk factors. Non-smoker, no hypertension, no diabetes, no family history of early CAD. Exercises regularly (runs 5k three times weekly without symptoms). ECG normal. PHYSICAL EXAM: BP 112/70, HR 64. Normal cardiac exam. ASSESSMENT: Healthy female requesting cardiac stress test for reassurance."
+  },
+  {
+    "id": "CASE-007",
+    "specialty": "Orthopedics",
+    "procedure_requested": "Knee Arthroscopy",
+    "guideline_key": "knee_arthroscopy",
+    "chief_complaint": "Medial knee pain with mechanical locking symptoms",
+    "transcription": "PATIENT: 44-year-old male, recreational soccer player. CHIEF COMPLAINT: Right knee medial pain with intermittent locking for 4 months. HISTORY: Injury occurred during soccer game with twisting mechanism. Medial knee pain rated 6/10, with mechanical locking episodes 3-4 times weekly requiring manual manipulation to unlock. Giving way episodes reported. Completed 6 weeks PT without improvement. NSAIDs provided partial relief. MRI right knee: medial meniscus complex tear with displaced fragment, intact ACL and PCL, no significant chondral damage. PHYSICAL EXAM: McMurray test positive medially, joint line tenderness, mild effusion. ASSESSMENT: Medial meniscus complex tear with mechanical symptoms refractory to conservative management. PLAN: Requesting knee arthroscopy with meniscal repair vs. partial meniscectomy."
+  },
+  {
+    "id": "CASE-008",
+    "specialty": "Orthopedics",
+    "procedure_requested": "Knee Arthroscopy",
+    "guideline_key": "knee_arthroscopy",
+    "chief_complaint": "Knee osteoarthritis, no mechanical symptoms",
+    "transcription": "PATIENT: 68-year-old female. CHIEF COMPLAINT: Bilateral knee pain for 5 years. HISTORY: Gradual onset bilateral knee pain, worse with prolonged walking. No locking, no giving way, no acute injury. X-rays show moderate tricompartmental osteoarthritis with joint space narrowing. PT completed x8 weeks, NSAIDs and Tylenol provide partial relief. Weight 198 lbs, BMI 32. ASSESSMENT: Moderate bilateral knee osteoarthritis. PLAN: Requesting knee arthroscopy for pain relief."
+  },
+  {
+    "id": "CASE-009",
+    "specialty": "Neurology",
+    "procedure_requested": "MRI Brain with Contrast",
+    "guideline_key": "mri_brain",
+    "chief_complaint": "New onset seizure, first episode",
+    "transcription": "PATIENT: 31-year-old female. CHIEF COMPLAINT: First-time generalized tonic-clonic seizure yesterday. HISTORY: Witnessed generalized tonic-clonic seizure lasting 2 minutes, with post-ictal confusion lasting 20 minutes. No prior seizure history. No family history of epilepsy. No fever, no recent illness, no head trauma. No medications. Toxicology screen negative. Labs: sodium, glucose, CBC all normal. EEG performed showing focal slowing in left temporal region. PHYSICAL EXAM: Normal neurological exam post-ictally. ASSESSMENT: New onset seizure with focal EEG abnormality, requiring neuroimaging to exclude structural cause. PLAN: Urgent MRI brain with and without contrast."
+  },
+  {
+    "id": "CASE-010",
+    "specialty": "Neurology",
+    "procedure_requested": "MRI Brain with Contrast",
+    "guideline_key": "mri_brain",
+    "chief_complaint": "Chronic daily headache, normal prior workup",
+    "transcription": "PATIENT: 28-year-old female. CHIEF COMPLAINT: Daily headache for 2 years. HISTORY: Chronic daily headache, tension-type pattern, bilateral, non-pulsating, mild-moderate intensity. No nausea, no photophobia. No neurological symptoms. No red flag features. Prior CT brain 18 months ago: normal. Prior MRI brain without contrast 12 months ago: normal. Treated with amitriptyline and topiramate with partial response. ASSESSMENT: Chronic daily headache, tension-type, stable, prior imaging normal x2. PLAN: Requesting repeat MRI brain with contrast."
+  },
+  {
+    "id": "CASE-011",
+    "specialty": "Orthopedics",
+    "procedure_requested": "Lumbar Epidural Steroid Injection",
+    "guideline_key": "lumbar_esi",
+    "chief_complaint": "Bilateral leg pain, spinal stenosis",
+    "transcription": "PATIENT: 71-year-old male. CHIEF COMPLAINT: Bilateral leg pain and weakness worsened with walking (neurogenic claudication). HISTORY: Progressive bilateral leg pain, heaviness, and tingling with ambulation greater than 1 block, relieved by sitting or leaning forward. Symptoms present 18 months, worsening for 6 months. Completed 10 weeks PT, acetaminophen and duloxetine for pain. MRI lumbar spine: severe L3-L4 and L4-L5 central canal stenosis with bilateral foraminal narrowing. PHYSICAL EXAM: Wide-based gait, positive bicycle test, decreased sensation bilateral lower extremities L4-L5 distribution. Strength 4/5 bilateral hip flexors. ASSESSMENT: Lumbar spinal stenosis with neurogenic claudication, severe. Conservative management ongoing, requesting epidural steroid injection for symptomatic relief prior to surgical evaluation."
+  },
+  {
+    "id": "CASE-012",
+    "specialty": "Cardiology",
+    "procedure_requested": "Cardiac Stress Test",
+    "guideline_key": "cardiac_stress",
+    "chief_complaint": "Post-MI follow up, known CAD",
+    "transcription": "PATIENT: 58-year-old male. CHIEF COMPLAINT: Follow-up 3 months post NSTEMI. HISTORY: NSTEMI 3 months ago, treated with PCI and drug-eluting stent to LAD. Currently on aspirin, clopidogrel, atorvastatin, metoprolol, lisinopril. Symptoms: occasional mild exertional dyspnea with heavy exertion but no chest pain. Cardiac rehab completed 8 weeks. Echo post-MI: EF 45%, inferior wall hypokinesis. PHYSICAL EXAM: BP 122/76, HR 58. No signs of heart failure. ASSESSMENT: Stable CAD post-PCI, new exertional symptoms requiring functional assessment. PLAN: Requesting nuclear stress test to evaluate for ischemia in context of new symptoms."
+  },
+  {
+    "id": "CASE-013",
+    "specialty": "Pulmonology",
+    "procedure_requested": "Polysomnography (Sleep Study)",
+    "guideline_key": "sleep_study",
+    "chief_complaint": "Pediatric snoring, adenotonsillar hypertrophy",
+    "transcription": "PATIENT: 7-year-old male. CHIEF COMPLAINT: Loud snoring, restless sleep, behavioral issues at school. HISTORY: Parents report loud snoring nightly since age 4, witnessed apneas, enuresis, hyperactivity. Teacher reports attention difficulties in class. Tonsils grade 3+ bilaterally on prior exam. Adenoid hypertrophy on lateral neck X-ray. Growth: 25th percentile height, 20th percentile weight, crossing percentile lines downward. PHYSICAL EXAM: Mouth breathing, hyponasal speech, tonsillar enlargement. ASSESSMENT: Pediatric obstructive sleep apnea, likely secondary to adenotonsillar hypertrophy. PLAN: Polysomnography to confirm diagnosis and severity before surgical referral."
+  },
+  {
+    "id": "CASE-014",
+    "specialty": "Orthopedics",
+    "procedure_requested": "Knee Arthroscopy",
+    "guideline_key": "knee_arthroscopy",
+    "chief_complaint": "ACL tear with functional instability",
+    "transcription": "PATIENT: 22-year-old female college athlete (basketball). CHIEF COMPLAINT: Right knee instability after ACL tear 3 months ago. HISTORY: Complete ACL tear confirmed on MRI following non-contact pivoting injury during game. Patient reports significant functional instability — giving way episodes during activities of daily living. Unable to return to sport. No concurrent meniscal tear on MRI. Completed 12 weeks prehabilitation PT, quad strength 85% of contralateral side. ASSESSMENT: Complete ACL tear with functional instability, high-demand athletic patient desiring return to competitive sport. PLAN: ACL reconstruction via knee arthroscopy."
+  },
+  {
+    "id": "CASE-015",
+    "specialty": "Neurology",
+    "procedure_requested": "MRI Brain with Contrast",
+    "guideline_key": "mri_brain",
+    "chief_complaint": "Progressive cognitive decline, early dementia workup",
+    "transcription": "PATIENT: 72-year-old female. CHIEF COMPLAINT: Progressive memory loss over 18 months, family concerned. HISTORY: Insidious onset forgetfulness, word-finding difficulty, getting lost in familiar areas. MMSE score 22/30. Affects ADLs — missed medications, forgot appointments. No prior neuroimaging. Labs: TSH, B12, folate, RPR, CBC, metabolic panel all normal. No vascular risk factors. PHYSICAL EXAM: Alert, oriented x2, decreased recall and naming on exam. Gait normal. ASSESSMENT: Mild cognitive impairment, etiology to be determined. Structural brain imaging required to exclude reversible causes (normal pressure hydrocephalus, subdural hematoma, tumor) and characterize atrophy pattern. PLAN: MRI brain with and without contrast."
+  },
+  {
+    "id": "CASE-016",
+    "specialty": "Cardiology",
+    "procedure_requested": "Cardiac Stress Test",
+    "guideline_key": "cardiac_stress",
+    "chief_complaint": "Pre-operative clearance, high-risk surgery",
+    "transcription": "PATIENT: 66-year-old male scheduled for elective right total hip replacement. CHIEF COMPLAINT: Pre-operative cardiac clearance. HISTORY: Hypertension, type 2 diabetes, hyperlipidemia. Functional capacity estimated at 4-5 METs (can walk on flat ground, climb one flight of stairs). No chest pain, no prior MI, no arrhythmia. Resting ECG: normal sinus rhythm with non-specific ST changes. Revised Cardiac Risk Index: 2 factors (diabetes on insulin, prior ischemic heart disease not confirmed). ASSESSMENT: Intermediate surgical risk, intermediate clinical risk. Functional capacity borderline, stress testing requested to guide perioperative management. PLAN: Exercise stress echo for pre-operative cardiac risk stratification."
+  },
+  {
+    "id": "CASE-017",
+    "specialty": "Pulmonology",
+    "procedure_requested": "Polysomnography (Sleep Study)",
+    "guideline_key": "sleep_study",
+    "chief_complaint": "CPAP non-compliance, requesting restudy",
+    "transcription": "PATIENT: 52-year-old female. CHIEF COMPLAINT: CPAP intolerance, requesting alternative therapy evaluation. HISTORY: Diagnosed with moderate OSA (AHI 22) via polysomnography 3 years ago. Prescribed CPAP 10 cmH2O. Compliance data: average 2.1 hours/night, 60% of nights below 4 hours. Complaints: claustrophobia, pressure intolerance, mask leak. Residual AHI on CPAP: 14. Daytime sleepiness persists (Epworth 13). Tried 3 different mask types. ASSESSMENT: CPAP-intolerant OSA, residual disease. Requesting repeat PSG for CPAP pressure adjustment and consideration of BIPAP or ASV therapy. PLAN: Split-night polysomnography for re-titration."
+  },
+  {
+    "id": "CASE-018",
+    "specialty": "Orthopedics",
+    "procedure_requested": "Lumbar Epidural Steroid Injection",
+    "guideline_key": "lumbar_esi",
+    "chief_complaint": "Post-surgical back pain, prior discectomy",
+    "transcription": "PATIENT: 49-year-old female. CHIEF COMPLAINT: Recurrent right leg pain 18 months after L5-S1 discectomy. HISTORY: L5-S1 microdiscectomy 18 months ago for right S1 radiculopathy with good initial recovery. Over past 4 months, recurrence of right leg pain in S1 distribution, rated 5-6/10. No new weakness or bowel/bladder symptoms. MRI lumbar spine post-op: epidural fibrosis at L5-S1 with possible recurrent disc herniation vs. scar tissue, right S1 nerve root compression. PT trial x6 weeks: minimal improvement. ASSESSMENT: Failed back surgery syndrome with recurrent right S1 radiculopathy. PLAN: Fluoroscopic right S1 transforaminal epidural steroid injection for diagnostic and therapeutic purposes."
+  },
+  {
+    "id": "CASE-019",
+    "specialty": "Neurology",
+    "procedure_requested": "MRI Brain with Contrast",
+    "guideline_key": "mri_brain",
+    "chief_complaint": "Sudden vision loss, suspected MS",
+    "transcription": "PATIENT: 26-year-old female. CHIEF COMPLAINT: Sudden painful loss of vision right eye over 3 days. HISTORY: Progressive blurring and pain with eye movement in right eye, developed over 3 days. No prior similar episodes. No other neurological symptoms at this time. Ophthalmology exam: reduced visual acuity right eye 20/100, reduced color vision, relative afferent pupillary defect, swollen optic disc. VEP: prolonged P100 latency right eye. ASSESSMENT: Clinical diagnosis of right optic neuritis. MRI brain with and without contrast urgently indicated to evaluate for demyelinating lesions consistent with multiple sclerosis and guide treatment decision for IV methylprednisolone."
+  },
+  {
+    "id": "CASE-020",
+    "specialty": "Cardiology",
+    "procedure_requested": "Cardiac Stress Test",
+    "guideline_key": "cardiac_stress",
+    "chief_complaint": "Palpitations with exertion, young athlete",
+    "transcription": "PATIENT: 19-year-old male, competitive swimmer. CHIEF COMPLAINT: Palpitations and near-syncope during intense training for 2 months. HISTORY: Episodes of rapid irregular heartbeat during high-intensity training, one episode of near-syncope during 400m sprint at practice. No prior cardiac history. Family history: maternal uncle died suddenly at age 32 (cause unknown). Resting ECG: sinus bradycardia HR 48, early repolarization pattern, borderline voltage criteria for LVH. Echo: normal LV size and function, no LVOTO. ASSESSMENT: Exertional palpitations with near-syncope in competitive athlete, concerning for exercise-induced arrhythmia. Resting ECG changes require further evaluation. PLAN: Exercise stress test with continuous ECG monitoring to evaluate for arrhythmia provocation."
+  }
+]

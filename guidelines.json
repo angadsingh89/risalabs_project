@@ -1,0 +1,61 @@
+{
+  "lumbar_esi": {
+    "name": "Lumbar Epidural Steroid Injection",
+    "source": "CMS LCD L36920 / Medicare Coverage Policy",
+    "criteria": [
+      "Diagnosis of radiculopathy, radicular pain, or neurogenic claudication",
+      "Confirmation by imaging (MRI, CT, or myelogram) showing nerve root compression or spinal stenosis",
+      "Conservative treatment attempted for minimum 6 weeks (physical therapy AND/OR anti-inflammatory medications)",
+      "Functional impairment documented (pain score, activity limitations, work limitations)",
+      "No absolute contraindications (active infection, bleeding disorder, allergy to steroids or contrast)",
+      "No evidence of medical emergency requiring immediate surgery (severe neurological deficit, cauda equina syndrome)"
+    ]
+  },
+  "sleep_study": {
+    "name": "Polysomnography (Sleep Study)",
+    "source": "CMS LCD L33786 / AASM Guidelines",
+    "criteria": [
+      "Clinical symptoms of sleep-disordered breathing: excessive daytime sleepiness, witnessed apneas, loud snoring, or nocturnal choking",
+      "Epworth Sleepiness Scale score ≥10 OR documented witnessed apneas OR STOP-BANG score ≥3",
+      "BMI >30 OR neck circumference >40cm (male) / >38cm (female) OR other OSA risk factors OR clinical necessity documented",
+      "No prior definitive sleep study within 12 months unless clinical change documented",
+      "Ordering physician documents medical necessity and expected clinical impact on management"
+    ]
+  },
+  "cardiac_stress": {
+    "name": "Cardiac Stress Test (Exercise or Pharmacologic)",
+    "source": "CMS NCD 20.15 / ACC/AHA Guidelines",
+    "criteria": [
+      "Signs or symptoms suggestive of coronary artery disease (chest pain, dyspnea, syncope, palpitations with exertion)",
+      "Known CAD with new or changing symptoms OR post-revascularization follow-up with symptoms",
+      "Pre-operative risk stratification for high/intermediate risk surgery with poor or unknown functional capacity",
+      "Intermediate pre-test probability of CAD based on age, sex, and symptom characteristics",
+      "Resting ECG interpretable (or pharmacologic stress selected if LBBB/pacemaker/digoxin changes present)",
+      "Not indicated for routine screening in asymptomatic low-risk patients"
+    ]
+  },
+  "knee_arthroscopy": {
+    "name": "Knee Arthroscopy",
+    "source": "CMS LCD L35000 / AAOS Guidelines",
+    "criteria": [
+      "MRI or clinical evidence of mechanical pathology (meniscal tear, loose body, osteochondral lesion, ACL/PCL tear with instability)",
+      "Mechanical symptoms present: locking, catching, giving way (not just pain alone)",
+      "Conservative treatment for minimum 6 weeks (physical therapy, NSAIDs, activity modification) — except for acute instability/locked knee",
+      "Functional impairment affecting activities of daily living or occupation",
+      "NOT indicated for isolated knee osteoarthritis without mechanical symptoms (per AAOS guidelines)",
+      "Pre-operative imaging reviewed and documented in clinical notes"
+    ]
+  },
+  "mri_brain": {
+    "name": "MRI Brain with Contrast",
+    "source": "CMS NCD 220.2 / ACR Appropriateness Criteria",
+    "criteria": [
+      "New onset neurological symptoms: seizures, focal deficits, sudden severe headache, vision changes, cognitive decline",
+      "Known or suspected CNS pathology requiring characterization (tumor, infection, MS, vascular malformation)",
+      "Prior non-contrast MRI or CT showing abnormality requiring further characterization",
+      "Contrast indicated specifically (not just routine) — active infection, malignancy workup, BBB breakdown assessment",
+      "Clinical scenario where MRI findings will change management",
+      "Repeat imaging within 12 months requires documented clinical change or new indication"
+    ]
+  }
+}
